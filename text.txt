@@ -1,0 +1,1 @@
+Conclusion: analyse with Systolic & Diastolic has highest accuracy and better performance from confusion matrix
